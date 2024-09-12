@@ -3,6 +3,12 @@ Procedurally generated articulated objects specified in Universal Robot Descript
 
 # Mujoco
 
+Installation Steps here:
+a. Download binaries and create a folder with name ".mujoco"
+b. Place the mujoco210 folder into the previous folder
+c. pip install mujoco-py
+https://github.com/openai/mujoco-py?tab=readme-ov-file#install-mujoco
+
 Setup:
 ```pip install -r requirements.txt```
 
