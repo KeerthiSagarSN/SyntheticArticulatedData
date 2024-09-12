@@ -9,6 +9,10 @@ b. Place the mujoco210 folder into the previous folder<br>
 c. pip install mujoco-py<br>
 https://github.com/openai/mujoco-py?tab=readme-ov-file#install-mujoco<br>
 
+Please add following line to .bashrc:<br>
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/imr/.mujoco/mujoco210/bin<br>
+
+
 Setup:
 ```pip install -r requirements.txt```
 
