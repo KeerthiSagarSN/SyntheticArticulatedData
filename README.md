@@ -3,8 +3,8 @@ Procedurally generated articulated objects specified in Universal Robot Descript
 
 
 # Dependencies
-a. pytorch (pip install torch)
-b. pyro (pip3 install pyro-ppl )
+a. pytorch (pip install torch)<br>
+b. pyro (pip3 install pyro-ppl)<br>
 
 # Mujoco
 
