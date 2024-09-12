@@ -1,6 +1,11 @@
 # SyntheticArticulatedData
 Procedurally generated articulated objects specified in Universal Robot Description Format (URDF), and rendered using Mujoco.
 
+
+# Dependencies
+a. pytorch (pip install torch)
+b. pyro (pip3 install pyro-ppl )
+
 # Mujoco
 
 Installation Steps here:<br>
