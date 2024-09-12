@@ -19,6 +19,9 @@ Setup:
 Example generation:
 ```python3 generate_data.py --n 10 --dir ./test --obj microwave --masked --debug```
 
+Issues can be sorted by using this thread:<br>
+https://github.com/openai/mujoco-py/issues/707
+
 # PyBullet
 
 Setup:
